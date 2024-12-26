@@ -1,4 +1,13 @@
-// Load Navbar and Footer into every page
+// Scroll-triggered animations using AOS (Animate on Scroll)
+AOS.init({
+  offset: 200,
+  delay: 0,
+  duration: 600,
+  easing: 'ease-out-cubic',
+  once: true
+});
+
+// Navbar and Footer insertion
 document.getElementById("navbar").innerHTML = `
   <nav>
     <a href="index.html">Home</a>
