@@ -8,7 +8,7 @@ AOS.init({
 });
 
 // Navbar and Footer insertion
-document.getElementById("navbar").innerHTML = `
+document.getElementById("navbar").innerHTML = "
 <style>
 * {
   border: 0;
@@ -395,10 +395,10 @@ a {
       <li><a href="">Pro</a></li>
     </ul>
 </div>
-`;
+";
 
-document.getElementById("footer").innerHTML = `
+document.getElementById("footer").innerHTML = "
   <footer>
     <p>&copy; 2024 DeskThing. All Rights Reserved.</p>
   </footer>
-`;
+";
