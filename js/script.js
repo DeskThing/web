@@ -366,7 +366,7 @@ a {
     <!-- Navbar Logo -->
     <div class="logo">
       <!-- Logo Placeholder for Inlustration -->
-      <a href="#home"><i class="fa fa-angellist"></i> Logo</a>
+      <a href="#home">DeskThing</a>
     </div>
 
     <!-- Navbar Links -->
